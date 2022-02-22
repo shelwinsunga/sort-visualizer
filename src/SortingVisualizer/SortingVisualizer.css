@@ -1,0 +1,25 @@
+.array-container {
+    /* display: flex;
+    justify-content: center;
+    align-self: center; */
+    position: absolute;
+    left: 100px;
+}
+
+.array-bar {
+    width:2px;
+    background-color: rgb(0, 238, 255);
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.nav{
+    display:block;
+    border-style: line red 1px;
+    margin: 10px;
+    padding: 10px;
+    border-radius:3%;
+    box-sizing: border-box;
+    border-inline-color: black;
+    outline: 2px solid black;
+}
